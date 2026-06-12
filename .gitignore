@@ -1,0 +1,8 @@
+# Ignore everything by default
+/*
+
+# Allow only the resume analyzer app and config files
+!shortlister3.py
+!requirements.txt
+!.gitignore
+!README.md
