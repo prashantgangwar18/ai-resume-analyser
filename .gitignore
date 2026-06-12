@@ -6,3 +6,6 @@
 !requirements.txt
 !.gitignore
 !README.md
+!render.yaml
+!.streamlit/
+!.streamlit/config.toml
